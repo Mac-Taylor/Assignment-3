@@ -1,21 +1,24 @@
-body { background-color: ghostwhite}
+body { background-color: lightskyblue}
+
+header {border: 10px solid darkblue;
+background-color:lightskyblue;
+}
 
 header p {font-size: 2em;
 text-align: center;
-background-color: lightskyblue;
 color: darkblue;
-margin-left: 450px;
-margin-right: 450px;
 }
 
 main ul {display: flex;
+flex-wrap: wrap;
 flex-direction: row;
-list-style-type: none;
 }
 
 li {height: 2em;
-display: inline-block;
-width: 35%;
+display: inline;
+width: 350px;
+height: 80px;
+border: 2px solid darkblue;
 }
 
 .red {background-color: red;
