@@ -8,6 +8,16 @@ margin-left: 450px;
 margin-right: 450px;
 }
 
+main ul {display: flex;
+flex-direction: row;
+list-style-type: none;
+}
+
+li {height: 2em;
+display: inline-block;
+width: 35%;
+}
+
 .red {background-color: red;
 }
 
