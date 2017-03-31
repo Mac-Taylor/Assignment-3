@@ -28,11 +28,14 @@ flex-grow: 1;
 main p {text-align: center;
 border: 1px solid blue;
 background-color: darkblue;
-color: lightskyblue}
+color: lightskyblue;
+margin-left: 40%;
+margin-right: 40%
+}
 
 .box {background-color: lightskyblue
 }
 
-ul { border: 10px solid darkblue;
-padding: 0px;
+li { border: 1px solid darkblue;
+padding: 1px;
 }
