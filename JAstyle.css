@@ -20,6 +20,7 @@ margin-top: 1%;
 main ul {display: flex;
 flex-wrap: wrap;
 flex-direction: row;
+margin-right: 4%;
 }
 
 li {height: 2em;
@@ -30,7 +31,6 @@ border: 2px solid darkblue;
 flex-grow: 1;
 margin: 2px;
 padding: 2px;
-
 }
 
 main p {text-align: center;
