@@ -1,5 +1,12 @@
 body { background-color: ghostwhite}
 
+header p {font-size: 2em;
+position: flex;
+text-align: center;
+background-color: lightskyblue;
+color: darkblue;
+margin-left: 450px;
+margin-right: 450px;
 
-header p {font-size: 10em
+
 }
