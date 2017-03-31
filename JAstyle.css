@@ -28,6 +28,9 @@ width: 350px;
 height: 80px;
 border: 2px solid darkblue;
 flex-grow: 1;
+margin: 2px;
+padding: 2px;
+
 }
 
 main p {text-align: center;
@@ -35,12 +38,9 @@ border: 1px solid blue;
 background-color: darkblue;
 color: lightskyblue;
 margin-left: 40%;
-margin-right: 40%
+margin-right: 40%;
 }
 
 .box {background-color: lightskyblue
 }
 
-li { border: 1px solid darkblue;
-padding: 1px;
-}
